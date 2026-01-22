@@ -1,0 +1,14 @@
+# Texto sempre em LF (padrão Linux)
+* text=auto eol=lf
+
+# Windows scripts (se tiver)
+*.bat text eol=crlf
+
+# Binários
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.jar binary

@@ -1,4 +1,4 @@
-# CoreHealth
+# 🩺 CoreHealth
 
 ## 📌 Visão Geral
 
